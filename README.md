@@ -1,4 +1,5 @@
 # Yolo v3 Object Detection in Tensorflow
+[Kaggle kernel link](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow) <br><br>
 Yolo v3 is an algorithm that uses deep convolutional neural networks to detect objects.
 
 ## Getting started
